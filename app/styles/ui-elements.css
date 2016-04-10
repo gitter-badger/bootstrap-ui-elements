@@ -1,0 +1,17 @@
+.carousel {
+  margin-bottom:1em;
+}
+
+/* Board UI Element */
+
+.board .grid-item {
+  float:left;
+  padding: 1em;
+}
+
+/* clear fix */
+.isotope:after {
+  content: '';
+  display: block;
+  clear: both;
+}
