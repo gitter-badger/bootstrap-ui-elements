@@ -1,0 +1,32 @@
+<!doctype html>
+
+<html class="no-js" lang="">
+
+  <head>
+
+    <title>Bootstrap UI Elements - Board</title>
+
+    {% include "partials/header.nunjucks" %}
+
+  </head>
+
+  <body>
+
+    {% include "ui-elements/board.nunjucks" %}
+
+    {% include "partials/google-analytics.nunjucks" %}
+
+    {% include "partials/footer.nunjucks" %}
+
+<script>
+  var elem = document.querySelector('.grid');
+  var iso = new Isotope( elem, {
+    itemSelector: '.grid-item',
+    layoutMode: 'fitRows',
+    percentRows: true
+  });
+
+</script>
+  </body>
+
+</html>

@@ -1,0 +1,33 @@
+<!-- begin: Medium Grid UI Element -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+    <div class="col-sm-4">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue. Quisque rhoncus volutpat sollicitudin. Pellentesque convallis, justo a ornare commodo, augue ex placerat tortor, vitae.</p>
+    </div>
+  </div>
+</div>
+<!-- end: Medium Grid UI Element -->

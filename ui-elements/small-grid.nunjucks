@@ -1,0 +1,42 @@
+<!-- begin: Small Grid UI Element -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at accumsan nibh. Suspendisse accumsan cursus sapien nec congue.</p>
+    </div>
+  </div>
+</div>
+<!-- end: Small Grid UI Element -->
